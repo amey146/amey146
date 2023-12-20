@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amey Sandip Gaikwad</h1>
-<h3 align="center">A highly motivated mobile application developer from India</h3>
+<h3 align="center">A highly motivated developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amey146&label=Profile%20views&color=0e75b6&style=flat" alt="amey146" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amey_146" target="blank"><img src="https://img.shields.io/twitter/follow/amey_146?logo=twitter&style=for-the-badge" alt="amey_146" /></a> </p>
 
-- 🔭 I’m currently working on **DOJO Sports Job Recommender**
+<!-- - 🔭 I’m currently working on **Java Project** -->
 
 - 🌱 I’m currently learning **Flutter 3.0**
 

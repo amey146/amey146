@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **Java Project** -->
 
-- 🌱 I’m currently learning **Flutter 3.0**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amey146](https://github.com/amey146)
 

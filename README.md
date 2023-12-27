@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amey146/](https://github.com/amey146/)
+- 👨‍💻 All of my projects are available at [https://github.com/amey146](?tab=repositories)
 
 - 💬 Ask me about **Java**
 

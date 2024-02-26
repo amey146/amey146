@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amey_146" target="blank"><img src="https://img.shields.io/twitter/follow/amey_146?logo=twitter&style=for-the-badge" alt="amey_146" /></a> </p>
 
-- 🔭 I’m currently working on **a Java project**
+- 🔭 I’m currently working on **an Android project**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amey146](?tab=repositories)
 

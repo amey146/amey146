@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a Data Analytics project **Student Result Analysis**
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning **Django**
 
 - ⚡ Status **Peace 🕊️✌️**
 
